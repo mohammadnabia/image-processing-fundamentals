@@ -1,6 +1,11 @@
 # image-processing-fundamentals  
 In this repository, we are going to get acquainted with the fundamental and essential things in the field of image processing, we will learn how to implement basic algorithms and functions, and we will follow the necessary things in the field of image processing.
-.
-.
-.
+
+## List of items that will be implemented.
+- [x] Histogram equalization
+- [ ] Intensity transformations
+- [ ] Defining the convolution function with a selectable kernel for use in filtering images & spatial filtering
+- [ ] Calculating the gradient and  gradient orientation of an image 
+- [ ] Add Motion Blur to still images and vice versa
+
 ***it will be updated...***
