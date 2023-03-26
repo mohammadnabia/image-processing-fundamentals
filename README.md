@@ -4,7 +4,7 @@ In this repository, we are going to get acquainted with the fundamental and esse
 ## List of items that will be implemented.
 - [x] Histogram equalization
 - [x] Intensity transformations
-- [ ] Defining the convolution function with a selectable kernel for use in filtering images & spatial filtering
+- [x] Defining the convolution function with a selectable kernel for use in filtering images & spatial filtering
 - [ ] Calculating the gradient and  gradient orientation of an image 
 - [ ] Add Motion Blur to still images and vice versa
 
