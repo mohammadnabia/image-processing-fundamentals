@@ -17,17 +17,33 @@ A Google account to access Google Colab.
 The repository includes several examples of intensity transformation techniques. Here are a few highlights:
 
 * Gamma Transformation
-| ![download]()| 
+
+| ![download](https://github.com/mohammadnabia/image-processing-fundamentals/assets/53332753/5d13ff40-a70e-416b-a179-d31aad0cbf06)| 
 |:--:| 
 | *The image on the left is our input and the image on the right is the output of our code.* |
 
 * log transformation
 * Negative transformation
 
+| ![download](https://github.com/mohammadnabia/image-processing-fundamentals/assets/53332753/28e12dfc-eaae-435a-9147-48a3c074d3b4)| 
+|:--:| 
+| *The image on the left is our input and the image on the right is the output of our code.* |
+
+
 and also applying some filters:
 
-* smoothing filters 
+* smoothing using averaging
+
+| ![download](https://github.com/mohammadnabia/image-processing-fundamentals/assets/53332753/78f51eb8-404c-49b5-a1c8-4ef5ea8c625d)| 
+|:--:| 
+| *smoothing using averaging* |
+
 * median filter
+
+|![download](https://github.com/mohammadnabia/image-processing-fundamentals/assets/53332753/a69400b1-6d9b-4d79-8d64-3d544d09eca5)| 
+|:--:| 
+| *The image on the left is our input and the image on the right is the output of our code.* |
+
 
 ## STEPS
 
