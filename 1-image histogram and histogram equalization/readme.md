@@ -36,5 +36,6 @@ Contributions to this repository are welcome. If you have any improvements, bug 
 
 ## License 
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code as permitted by the license.
+
 ---
 👾 Have a joyful coding 👾
