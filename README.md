@@ -6,6 +6,3 @@ In this repository, we are going to get acquainted with the fundamental and esse
 - [x] Intensity transformations
 - [x] Defining the convolution function with a selectable kernel for use in filtering images & spatial filtering
 - [x] Calculating the gradient and  gradient orientation of an image 
-- [ ] Add Motion Blur to still images and vice versa
-
-***it will be updated...***
