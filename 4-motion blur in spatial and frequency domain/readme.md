@@ -63,6 +63,8 @@ If you need more information, you can fully master this topic by viewing the pro
 - [x] Import cv2, numpy, matplotlib, urllib, cv2_imshow, random
 - [x] Import your image
 - [x] Define the motion blur function for the spatial domain and blur your image
+- [x] 🏁Done🏁
+
 ### part 2
 - [x] Normalize the input image
 - [x] Convert the image from the spatial domain to the frequency domain by Fourier transform
