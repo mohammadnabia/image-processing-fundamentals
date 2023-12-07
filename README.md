@@ -6,4 +6,3 @@ We will get acquainted with the fundamental and essential things in image proces
 - [x] Intensity transformations
 - [x] Defining the convolution function with a selectable kernel for use in filtering images & spatial filtering
 - [x] Calculating the gradient and  gradient orientation of an image
-- [x] Appling motion blur in spatial and frequency domains
